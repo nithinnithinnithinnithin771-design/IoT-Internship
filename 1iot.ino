@@ -11,14 +11,13 @@ void setup() {
 
 void loop() {
   int i=digitalRead(IR);
-   s.write(0);
    if(i==0){
     s.write(90);
    }
    else{
     s.write(0);
    }
-   delay(1000);
+   delay(5000);
   // put your main code here, to run repeatedly:
 
 }
