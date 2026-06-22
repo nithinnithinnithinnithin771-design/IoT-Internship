@@ -17,7 +17,7 @@ void loop() {
    else{
     s.write(0);
    }
-   delay(5000);
+   delay(1000);
   // put your main code here, to run repeatedly:
 
 }
