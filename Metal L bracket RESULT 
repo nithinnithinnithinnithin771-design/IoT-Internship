@@ -1,0 +1,19 @@
+Metal L-Bracket — Static Structural Analysis
+Static structural analysis of a steel L-bracket performed using SimScale.
+Software: SimScale
+Analysis: Static Structural
+Material: Steel
+Applied Load: 1000 N
+Maximum Displacement: 0.009048 mm
+Maximum von Mises Stress: 18.93 MPa
+Approximate Factor of Safety: 13.2
+Workflow
+Created/imported L-bracket CAD geometry
+Assigned steel material
+Applied fixed support
+Applied 1000 N load
+Generated mesh
+Performed static structural simulation
+Evaluated displacement
+Evaluated von Mises stress
+Calculated approximate factor of safety
